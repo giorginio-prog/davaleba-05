@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "529593504143",
+    "project_id": "gropu-1-5-giorgi",
+    "storage_bucket": "gropu-1-5-giorgi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529593504143:android:c16640451dc8154643fbfa",
+        "android_client_info": {
+          "package_name": "com.example.ge.msda.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529593504143-vo5kfki4g0sl70noslj8n9sd7hm762hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD09PTAkpgitMxrqpZ6r6h2bEf4btRFiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529593504143-vo5kfki4g0sl70noslj8n9sd7hm762hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529593504143:android:7a7fd9c68a8aa0c143fbfa",
+        "android_client_info": {
+          "package_name": "ge.msda.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529593504143-vo5kfki4g0sl70noslj8n9sd7hm762hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD09PTAkpgitMxrqpZ6r6h2bEf4btRFiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529593504143-vo5kfki4g0sl70noslj8n9sd7hm762hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
