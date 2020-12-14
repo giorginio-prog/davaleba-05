@@ -25,7 +25,7 @@ class ChangePasswordActivity : AppCompatActivity() {
         submitButton = findViewById(R.id.newPasswordSubmit)
         submitButton.setOnClickListener{
             val newPassword = newPasswordEditText.text.toString()
-            auth.currentUser?.updatePassword(newPassword).addOnCompleteListener{task ->
+            auth.currentUser?.updatePassword(newPassword)!!.addOnCompleteListener{ task ->
                 if (task.isSuccessful) {
                     Toast.makeText(this, "Success", Toast.LENGTH_LONG).show()
                 }else{
